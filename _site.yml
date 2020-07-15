@@ -1,0 +1,14 @@
+name: "NPL Package Selector"
+navbar:
+  title: "NPL Package Selector"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Home 2"
+      href: home2.html
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    css: styles.css
+output_dir: "."
