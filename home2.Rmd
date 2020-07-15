@@ -2,10 +2,12 @@
 title: "Untitled"
 author: "Michael Causon"
 date: "15/07/2020"
+runtime: shiny
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
+library(shiny)
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
